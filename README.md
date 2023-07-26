@@ -1,7 +1,7 @@
 # Excelerate-Internship-2023
   ## My Designation: Data Analyst ##
 
-🚀 Excited to share my incredible 4-week internship journey! 🚀
+## 🚀 Excited to share my incredible 4-week internship journey! 🚀
 ## Week 1: 
 
 Data Analysis 📊 During the first week of my internship, I dove deep into data analysis. I had the opportunity to work on real-world datasets, extracting valuable insights, and drawing meaningful conclusions. It was amazing to see how data-driven decisions can impact an organization's success. 
