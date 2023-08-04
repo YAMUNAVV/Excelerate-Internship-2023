@@ -1,5 +1,7 @@
 # Excelerate-Internship-2023
   ## My Designation: Data Analyst ##
+  ![Excelerate](https://github.com/YAMUNAVV/Excelerate-Internship-2023/assets/124666569/12ee5901-e460-4f35-837e-f4c6adee9347)
+
 
 ## 🚀 Excited to share my incredible 4-week internship journey! 🚀
 ## Week 1: 
